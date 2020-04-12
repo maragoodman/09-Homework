@@ -35,6 +35,7 @@ const questions = [
     type: "input",
     name: "usage",
     message: "How would you utilize the project?",
+    default: "To generate a ReadMe file for a developer's new project.",
   },
   {
     type: "list",
